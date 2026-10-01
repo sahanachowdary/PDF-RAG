@@ -1,3 +1,8 @@
 streamlit
-google-genai
-python-dotenv
+pypdf
+sentence-transformers
+chromadb
+ollama
+torch
+torchvision
+
